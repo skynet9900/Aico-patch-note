@@ -1,4 +1,5 @@
-Notes de patch:\n
+Notes de patch:
+
 -Fonctionnalités:
   ○Suppression des commandes suivantes:
     •`<attaque`
